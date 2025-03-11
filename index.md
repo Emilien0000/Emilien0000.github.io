@@ -9,10 +9,8 @@ hero_image_ratio: is-1by1
 ---
 
 # Emilien Vitry-lhotte
-Elève ingénieur en [préciser sa spécialité]
+Ecole d’ingénieur UNILASALLE (anciennement ESIEE) 2024/2025 : 1ere année de prépa-ingénieur
 
-
-Disponible XX mois à partir de Date
 
 [Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
