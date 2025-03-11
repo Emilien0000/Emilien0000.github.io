@@ -8,13 +8,18 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Emilien Vitry-lhotte
+# Emilien Vitry-lhotte  
 Ecole d’ingénieur UNILASALLE (anciennement ESIEE) 2024/2025 : 1ere année de prépa-ingénieur
 
+<!-- Lien pour envoyer un email -->
+<a href="mailto:emilien.vitry.lhotte1@gmail.com">
+    <button>Email moi</button>
+</a>
 
-emilien.vitry.lhotte1@gmail.com
-
-[Telephone](+33748614162)
+<!-- Lien pour appeler -->
+<a href="tel:+33748614162">
+    <button>Appeler</button>
+</a>
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
