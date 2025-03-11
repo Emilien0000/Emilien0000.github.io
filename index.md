@@ -14,7 +14,7 @@ Ecole d’ingénieur UNILASALLE (anciennement ESIEE) 2024/2025 : 1ere année de 
 
 emilien.vitry.lhotte1@gmail.com
 
-[Telephone](tel:+33748614162)
+[Telephone](+33748614162)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
