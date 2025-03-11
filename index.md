@@ -12,7 +12,7 @@ hero_image_ratio: is-1by1
 Ecole d’ingénieur UNILASALLE (anciennement ESIEE) 2024/2025 : 1ere année de prépa-ingénieur
 
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+(mailto:emilien.vitry.lhotte1@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
