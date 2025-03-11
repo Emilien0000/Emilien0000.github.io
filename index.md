@@ -11,9 +11,11 @@ hero_image_ratio: is-1by1
 # Emilien Vitry-lhotte  
 Ecole d’ingénieur UNILASALLE (anciennement ESIEE) 2024/2025 : 1ere année de prépa-ingénieur
 
+Contact
+
 <!-- Lien pour envoyer un email -->
 <a href="mailto:emilien.vitry.lhotte1@gmail.com">
-    <button>Email moi</button>
+    <button>Email</button>
 </a>
 
 <!-- Lien pour appeler -->
