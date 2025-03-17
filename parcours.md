@@ -3,13 +3,13 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/Curriculum vitæ.pdf
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024`
+**Formation certifiante hors parcous scolaire :**
 
 Elève ingénieur en [préciser la spécialité]
 * Cours : préciser les cours en phase avec le poste visé
