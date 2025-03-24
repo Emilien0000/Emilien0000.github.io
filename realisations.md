@@ -1,5 +1,5 @@
 ---
-title: Mes réalisations
+title: ""
 subtitle: Découvrez mes réalisations
 layout: product-category
 show_hero: true
